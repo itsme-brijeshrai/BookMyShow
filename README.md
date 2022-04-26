@@ -4,7 +4,7 @@
 This is a simple app made to book tickets for your favourite movies to watch. 
 
 
-## Authors
+## Author
 
 - [Brijesh Rai](https://github.com/itsme-brijeshrai)
 
