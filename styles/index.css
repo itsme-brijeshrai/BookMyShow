@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&family=Poppins:wght@200;600&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+
+body{
+    background-image: url(/images/homePage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+    background-position: center;
+    height: 100vh;
+}
+*{
+    font-family: 'Poppins',sans-serif;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#add-money{
+    padding: .5em;
+    display: grid;
+    width: 20%;
+    margin: auto;
+    margin-top: 3%;
+    gap: 20px;
+}
+#add_to_wallet{
+    width: 40%;
+    padding: .5rem;
+    border-radius: .4em;
+    border-color: rebeccapurple;
+    margin: auto;
+}
+#book_movies{
+    width: 40%;
+    padding: .5rem;
+    border-radius: .4em;
+    border-color: rebeccapurple;
+    margin: auto;
+}
