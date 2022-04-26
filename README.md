@@ -1,5 +1,5 @@
 
-# Instacart Clone - A Collaborative Project
+# Instacart Clone - A Solo Project
 
 This is a simple app made to book tickets for your favourite movies to watch. 
 
