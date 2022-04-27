@@ -21,3 +21,6 @@ This is a simple app made to book tickets for your favourite movies to watch.
 HTML, CSS, JavaScript
 
 **Server:** Local Storage of Web browser
+
+## Api
+OMDB Api used to get movies data
